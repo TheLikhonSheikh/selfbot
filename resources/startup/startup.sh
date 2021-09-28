@@ -12,7 +12,7 @@ echo "
             ┃┃┃┗┫┏┫┏┫╋┃┃╋┃
             ┗━┻━┻━┻┛┗━┻┻━┛
 
-      Visit @TheUltroid for updates!!
+      Developers @GodFatherMob!!
 
 "
 
